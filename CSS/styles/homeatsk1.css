@@ -1,0 +1,140 @@
+.main{
+	height: 900px;
+	width:900px;
+	background-color:ghostwhite;
+	padding-top:10px;
+}
+.a{
+	height:60px;
+	width:840px;
+	background-color:white;
+	margin-top:10px;
+	margin-bottom:20px;}
+.b img{
+	width:100px;
+	height:100px;
+	object-fit:cover;
+	margin-left:100px;
+	margin-top:20px;
+	border-radius:50%;
+}
+.u{background-color:#2589ff;color:white;border:1px solid skyblue;height:35px;width:70px;border-radius:6px;
+    margin-top: 10px;
+}
+.v{
+	color:#2589ff;background-color:white;border:1px solid deepskyblue;height:35px;width:70px;border-radius:6px;
+    margin-top: 10px;
+}
+
+
+.x{
+	background-color:lightgreen;color:white;border:1px solid lightgreen;height:40px;width:100px;border-radius:6px;
+    margin-top: 10px;
+
+
+}
+.y{
+	background-color:lightskyblue;color:white;border:1px solid skyblue;height:40px;width:100px;border-radius:6px;
+}
+.z{
+	background-color:lightskyblue;color:white;border:1px solid skyblue;height:40px;width:100px;border-radius:6px;
+}
+.q{
+	background-color:lightskyblue;color:white;border:1px solid skyblue;height:40px;width:100px;border-radius:6px;
+}
+.w{
+	background-color:red;color:white;border:1px solid red;height:40px;width:100px;border-radius:6px;
+}
+.b{
+	height:800px;
+	width:900px;
+	background-color:ghostwhite;
+	padding-top: 10px;
+	display: flex;
+	gap:20px;
+}
+.c{
+	height:500px;
+	width: 300px;
+	background-color: white;
+	border-radius:5px;
+	margin-top:10px;
+	margin-left:40px;
+
+}
+.d{
+	height:700px;
+	width:500px;
+	background-color:ghostwhite;
+	margin-right:20px;
+}
+.e{
+	height:320px;
+	width: 500px;
+	background-color: white;
+	margin-bottom: 20px;
+	border-radius: 5px;
+}
+.f{
+	height:340px;
+	width: 500px;
+	background-color:white;
+	margin-bottom:20px;
+	border-radius: 5px;
+}
+.hello{
+	margin-left:25px;
+	font-size:14px;
+	margin-right:0px;
+}
+sub{color:silver;
+text-align:right;}
+}
+label{
+	display:flex;
+	justify-content:flex-start;
+
+}
+.b0{
+	background-color:lightgrey;
+	position:relative;
+	width:95%;
+	height: 5px;
+	border:1px solid lightgrey;
+	border-radius: ;
+}
+.b1{
+	height: 100%;
+	width: 90%;
+	background-color:#2589ff ;
+	transition: width 0.5s;
+	border-radius:8px;
+}
+.b2{
+	height: 100%;
+	width: 80%;
+	background-color:red ;
+	transition: width 0.5s;
+	border-radius:8px;
+}
+.b3{
+	height: 100%;
+	width: 90%;
+	background-color:green;
+	transition: width 0.5s;
+	border-radius:8px;
+}
+.b4{
+	height: 100%;
+	width: 50%;
+	background-color:yellow ;
+	transition: width 0.5s;
+	border-radius:8px;
+}
+.b5{
+	height: 100%;
+	width: 70%;
+	background-color:steelblue ;
+	transition: width 0.5s;
+	border-radius:8px;
+}

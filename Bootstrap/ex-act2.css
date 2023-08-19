@@ -1,0 +1,19 @@
+.card{
+	display: flex;
+	position: relative;
+	left: 450px;
+	margin: 10px;
+	height: 300px;
+	width: 300px;
+	background-color: white;
+}
+.rounded-image{
+	height: 70px;
+	width: 70px;
+    border-radius: 50%;	
+}
+.content{
+	 position: relative;
+	 bottom: 65px;
+	 left: 95px;
+}

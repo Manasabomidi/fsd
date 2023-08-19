@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title> Styling </title>
+	<style type="text/css">
+		/Class Selector/
+		.abc{
+			background-color: pink;
+			font-family: cursive;
+		}
+
+		/ID selector/
+		#abc{
+			font-family: cursive;
+		}
+
+		/Element Selector/
+		p{
+			background-color: yellow;
+			font-family: cursive;
+		}
+		div{
+			height: 100px;
+			width: 100px;
+			background-color: lime;
+		}
+
+		/Universal Selector/
+		/**{*/
+			background-color: powderblue;
+			font-family: cursive;
+		/*}*/
+
+		/Attribute Selector/
+		input[type]{
+			color: yellow
+		}
+		input[type="password"]{
+			color: red
+		}
+		input[type="email"]{
+			color: purple
+		}
+		a[href]{
+			font-family: italic
+		}
+
+		/Pseudo selector/
+		a:visited{
+			color: green
+		}
+		a:link{
+			color: pink
+		}
+		a:hover{
+			color: red
+		}
+		a:active{
+			color: yellow
+		}
+		div:hover{
+			height: 300px;
+			width: 200px;
+			background-color: red;
+		}
+
+	</style>
+	<link rel="stylesheet" type="text/css" href="external_styling.css">
+</head>
+<body>
+	<h2> Inline Styling </h2>
+	<p style="background-color: pink; font-family: cursive;"> Which is used inside the html element/tag </p>
+
+
+	<h2> Internal Styling </h2>
+	<p> Which uses style tag in head element using selectors<br>- By using class selector (class is declared by dot with class name) <br>- By using ID selector(declared with hash with id name)<br>
+	- By element selector <br> - Universal selector <br> - Attribute selector <br> - Pseudo Selector </p> 
+
+
+	<h2> External Styling </h2>
+	<p class="abcext"> write styles externally and link up with html page <br> - selectors are common for external and internal <br> - use link tag in head to link external file </p>
+
+
+
+	<h2 id="abc"> ID selector </h2>
+	<p id="abcext"> class Id selector - used to give unique names </p>
+
+
+
+	<h2> Element Selector </h2>
+	<p> for Element selector we use element tag name for applying styles </p>
+	<p> It is applied for all tags same as element name</p>
+	<div></div>
+    
+
+
+    <!-- <h2> Universal Selector </h2> -->
+    <p> - It will be Applied to the entire html page except the tag which are declared by another selectors <br> these selectors are not in real tym scenario <br> - It is declared by star </p>
+
+
+
+    <h2> Attribute Sel0ector </h2>
+    <p> Attribute selector uses square brakcet</p>
+    <input type="text" name="">
+    <input type="password" name="">
+    <input type="email" name="">
+    <input type="number" name="">
+    <a href=""> click now </a>
+
+
+
+    <h2> Pseudo selector </h2>
+    <a href=""> click here </a>
+    <div></div>
+</body>
+</html>

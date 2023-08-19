@@ -1,0 +1,27 @@
+.task{
+	height:300px;
+	width: 690px;
+}
+
+.a{
+	height:200px;
+	width:200px;
+	float:left;
+	border: 3px solid black;
+	margin-right: 50px;
+}
+.b{
+	height:200px;
+	width:300px;
+	float:left;
+	border: 3px solid black;
+	margin-right: 30px;
+}
+.c{
+	height:200px;
+	width:100px;
+	float:left;
+	border: 3px solid black;
+	margin-right: 10px;
+	border-radius: 20px;
+}

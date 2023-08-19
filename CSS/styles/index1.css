@@ -1,0 +1,468 @@
+.main{
+	height: 5000px;
+	width: 100%;
+	background-color: black;
+}
+.div1{
+	height: 900px;
+	width: 100%;
+	background-image: url("../images/ship.jpeg");
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+h1{
+	color: white;
+	height: 100px;
+	width: 100px;
+	text-align: left;
+	padding-top: 600px;
+	padding-left: 80px;
+}
+p{
+	text-align: left;
+	color: white;
+	padding-left: 80px;
+}
+
+.div2{
+	height: 700px;
+	width: 100%
+	background-color:black;
+}
+.div21{
+	height: 100px;
+	width: 100%;
+	background-color: white;
+}
+.div22{
+	height: 150px;
+	width: 100%;
+	background-color: orange;
+}
+.div23{
+	height: 450px;
+	width: 100%;
+	background-color: white;
+}
+.div231{
+	height: 500px;
+	width: 80%;
+	background-color: red;
+	position: relative;
+	bottom: 200px;
+}
+.a1{
+	height: 500px;
+	width: 25%;
+	background-color:#D3D3D3;
+	float: left;
+}
+
+.a2{
+	height: 500px;
+	width: 25%;
+	background-color:#808080;
+	float: left;
+}
+.a3{
+	height: 500px;
+	width: 25%;
+	background-color:#7b7b7b;
+	float:left;
+}
+.a4{
+	height: 500px;
+	width: 25%;
+	background-color:#5A5A5A;
+	float: right;
+}
+.div3{
+	height: 500px;
+	width: 100%;
+    background-color: white;
+}
+.div31{
+	height: 500px;
+	width: 34%;
+    background-color: white;
+    float: left;
+}
+.div32{
+	height: 500px;
+	width: 34%;
+	float: left;
+    background-image: url("../images/man.jpg");
+    background-size: cover;
+}
+.div33{
+	height: 500px;
+	width: 32%;
+    background-color: white;
+    float: right;
+}
+#as3{
+	width: 350px;
+	height: 400px;
+    text-align: left;
+    background-color: white;
+    padding-top: 30px; 
+    
+}
+#pppp{
+	color: black;
+}
+.div311{		
+	color: black;
+	padding-top: 50px;
+	margin-left: 150px;
+}
+.div312{
+	font-style: italic;
+	color: gray;
+	margin-left: 150px;
+}
+.div4{
+	height: 400px;
+	width: 100%;
+	background-color: black;
+}
+.div41{
+	height: 800px;
+	width: 100%;
+	background-image: url("../images/lorry.avif");
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+#s1{
+	text-align: left;
+	color: white;
+	padding-left: 80px;
+	padding-top: 150px;
+}
+#s2{
+	text-align: left;
+	color: white;
+	padding-left: 80px;
+}
+#as4{
+	width: 500px;
+	height: 30px;
+    text-align: left;
+    background-color: transparent; 
+    float: right;
+    margin-right: 200px;
+    font-size: 20px;
+
+}
+#b1{
+	width: 120px;
+	height: 35px;
+	padding: 10px;
+	background-color: white;
+	color: black;
+	border-color: white;
+	margin-left: 80px;
+}
+/*#s3{
+	color: white;
+	padding-left: 800px;
+	padding-bottom: 200px;
+}
+#s4{
+	font-style: italic;
+	color: gray;
+}
+#button{
+	background-color: white;
+	color: black;
+}*/
+#div5{
+	height: 500px;
+	width: 100%;
+	background-color: white;
+	margin-top: 390px;
+}
+#div51{
+	height: 500px;
+	width: 10%;
+	float: left;
+	background-color: white;
+}
+#div52{
+	height: 500px;
+	width: 45%;
+	float: left;
+	background-color: white;
+	background-image: url("../images/goods.avif");
+	background-size: color;
+	margin-top: 30px;
+	margin-bottom: 30px;
+}
+#div53{
+	height: 500px;
+	width: 45%;
+	float: right;
+	background-color: white;
+}
+#div54{
+	height: 250px;
+	width: 100%;
+	background-color:darkorange;
+	position: relative;
+	right: 140px;
+	top: 100px;
+}
+#div55{
+	height: 250px;
+	width: 100%;
+	background-color:white;
+}
+#m1{
+	padding-top: 100px;
+    text-align: left;
+	color: black;	
+	padding-left: 20px;
+}
+#style{
+	padding-top: 30px;
+	font-size: 50px;
+	font-family: sans-serif;
+
+}
+#div6{
+	margin-top: 70px;
+	height: 1000px;
+	width: 100%;
+	background-color:black;
+}
+#div61{
+	height: 400px;
+	width: 100%;
+	background-color:orange;
+}
+#div62{
+	height: 600px;
+	width: 100%;
+	background-color:black;
+
+}
+#div63{
+	height: 600px;
+	width: 50%;
+	background-color:black;
+	float: left;
+}
+#div64{
+	height: 600px;
+	width: 50%;
+	float: right;
+	background-color: blue;
+	/*background-image: url("images/container.avif");
+    background-size: cover;
+    position: relative;
+    bottom: 200px;
+    right: 500px;*/
+}
+#div631{
+       height: 200px;
+       width: 80%;
+       background-color: pink;
+       position: relative;
+       bottom: 300px;
+       left: 800px;
+}
+#div632{
+       height: 200px;
+       width: 80%;
+       background-color: skyblue;
+       position: relative;
+       bottom: 300px;
+       left: 800px;
+}
+#div633{
+       height: 200px;
+       width: 80%;
+       background-color: purple;
+       position: relative;
+       bottom: 300px;
+       left: 800px;
+}
+#t1{
+	height: 300px;
+	width: 100%
+}
+#t2{
+	height: 300px;
+	width: 100%
+}
+#t3{
+	height: 300px;
+	width: 100%
+}
+#t4{
+	height: 300px;
+	width: 100%
+}
+.mm{
+	text-align: center;
+	padding-left: 5px;
+}
+#div7{
+	height: 600px;
+    width: 100%;
+    background-color: black;
+}
+#div71{
+	height: 600px;
+    width: 50%;
+    background-color: skyblue;
+    float: left;
+}
+#div72{
+	height: 600px;
+    width: 50%;
+    background-color: blue;
+    float: right;
+}
+#div721{
+	height: 600px;
+	width: 30%;
+	background-color: white;
+	float: left;
+}
+#div722{
+	height: 600px;
+	width: 40%;
+	background-color: orange;
+	float: left;
+
+}
+#div723{
+	height: 600px;
+	width: 30%;
+	background-color: white;
+	float: left;
+}
+#div711{
+	height: 300px;
+	width: 100%;
+	background-color: red;
+}
+#div712{
+	height: 300px;
+	width: 100%;
+	background-color: pink;
+	background-image: url("../images/goods.avif");
+	background-size:cover;
+}
+#divk1{
+    height: 300px;
+    width: 50%;
+    background-color:white;
+    float: left;
+}
+#divk2{
+    height: 300px;
+    width: 50%;
+    background-color:white;
+    float: right;
+}
+#pic{
+	align-items: right;
+	height: 250px;
+	width: 70%;
+	border-radius: 50%;
+}
+#pic2{
+	align-items: right;
+	height: 350px;
+	width: 120%;
+	border-radius: 50%;
+	position: relative;
+	right: 20px;
+	top: 60px;
+}
+/#about{
+	color: black;
+}
+.div24{		
+	color: black;
+	padding-top: 50px;
+	margin-left: 30px;
+}
+.div25{
+	text-align: justify;
+	font-style: italic;
+	color: black;
+	padding-bottom:100px;
+	margin-left: 20px;
+	position: relative;
+	bottom: 60px;
+}
+#b2{
+	width: 100px;
+	height: 45px;
+	background-color: black;
+	color: white;
+	margin-bottom: 30px;
+	margin-left: 120px;
+	position: relative;
+	bottom: 150px;
+	left: 20px;
+}
+#div8{
+	height: 1000px;
+	width: 100%;
+}
+#div81{
+	height: 1000px;
+	widows: 100%;
+	background-image: url("../images/nyt.avif");
+	background-size: cover;
+}
+#last{
+	padding-top: 200px;
+}
+#as4{
+	width: 500px;
+	height: 30px;
+    text-align: left;
+    background-color: transparent; 
+    margin-right: 200px;
+    font-size: 20px;
+
+}
+#b3{
+	background-color: transparent;
+	border-color: white;
+	color: white;
+
+}
+#as6{
+	align-items: right;
+	padding-right: 200px;
+}
+#div82{
+	height: 1000px;
+	width:100%
+	background-color: transparent;
+	float: left;
+}
+#div83{
+	height: 1000px;
+	width:100%
+	background-color: transparent;
+	float: right;
+	padding-top: 180px;
+}
+#div9{
+	height: 800px;
+	width: 800px;
+	background-image: url("../images/lorry.avif");
+	background-size: cover;
+	position: relative;
+	bottom: 2500px;
+}
+#am1{
+	text-align: justify;
+}
